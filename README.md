@@ -2,8 +2,7 @@
     <a>Back para App com jogos, títulos e campeonatos Brasileiros</a>
 </h1>
 <p>
-Criação de API utilizando o site https://www.api-futebol.com.br/ <br>
-Projeto criado para Mentoria dentro da IBM com o mentor Leonardo Machado</p>
+Criação de API utilizando o site https://www.api-futebol.com.br/
  <br>
 <p align="center">
  <a href="#-como-executar-o-projeto">Como Executar</a> • 
